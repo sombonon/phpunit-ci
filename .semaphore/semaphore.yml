@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: Test MyApp
+  - name: Test
     task:
       jobs:
         - name: Test
